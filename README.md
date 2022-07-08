@@ -1,4 +1,5 @@
-### Hi there 👋
+### Добро пожаловать и привет! 👋
+Меня зовут Кирилл. Я - инженер по тестированию программного обеспечения.</br>
 
 <!--
 **kirill-katkov/kirill-katkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
