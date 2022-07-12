@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 :link: Тестовый проект: <a target="_blank" href="https://github.com/kirill-katkov/Katkov_Astrio">astrio-tests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
 :heavy_check_mark: Проект по автоматизации тестирования сайта "Аstrio";
-  📔 Реализованные проверки
+
+📔 Реализованные проверки:
 - Проверка копирайта на главной странице
 - Проверка открытия страницы вакансий и меню
 - Проверка копирайта на странице вакансий
