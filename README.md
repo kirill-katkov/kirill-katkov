@@ -73,7 +73,6 @@ About me:
 
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/kirill-katkov/demoqa_api_katkov_tests">demoqa-api-tests</a></br></br>
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)</br></br>
 :heavy_check_mark: Проект по автоматизации тестирования API на сайте - demoqa.com.</br></br>
 :triangular_flag_on_post: Реализованные проверки:
 
@@ -89,7 +88,6 @@ About me:
 
 ## Тестирование мобильного приложения
 :link: Тестовый проект: <a target="_blank" href="https://github.com/kirill-katkov/wikipedia_mobile_katkov_tests">wikipedia-mobile-tests</a></br></br>
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)</br></br>
 :heavy_check_mark: Проект по автоматизации тестирования мобильного приложения Wikipedia.</br></br>
 :triangular_flag_on_post: Реализованные проверки:
 
