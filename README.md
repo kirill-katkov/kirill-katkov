@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+About me:
+
+💼 I love coding
+
+🌱 I love testing
+
+📫 I love life
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" title="Intellij Idea" alt="Intellij Idea" width="40" height="40"/>&nbsp;
