@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="https://github.com/kirill-katkov/Katkov_Astrio">astrio-tests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
-:heavy_check_mark: Проект по автоматизации тестирования сайта "Аstrio";
+:heavy_check_mark: Проект по автоматизации тестирования сайта "Аstrio"
 
 :triangular_flag_on_post: Реализованные проверки:
 
@@ -54,14 +54,16 @@ Here are some ideas to get you started:
 
 
 ## Тестирование мобильного приложения
-:link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/financisto-mobile-tests">financisto-mobile-tests</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/kirill-katkov/wikipedia_mobile_katkov_tests">wikipedia-mobile-tests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)</br></br>
-:heavy_check_mark: Реализованы автотесты мобильного приложения financisto на эмуляторе мобильного устройства.</br></br>
-:triangular_flag_on_post: Что особенного:
+:heavy_check_mark: Проект по автоматизации тестирования мобильного приложения Wikipedia.</br></br>
+:triangular_flag_on_post: Реализованные проверки:
 
-- [x] Первоначальная формулировка шагов тесткейсов в Allure Testops и импорт их в IntelliJ Idea
-- [x] Степовой подход для описания Allure Step
-- [x] Различные файлы конфигураций для запуска тестов
+- Проверка текста на стартовом экране
+- Проверка поля ввода BrowserStack
+- Проверка поля ввода Microsoft и проверка Description
+- Проверка экрана Настроить ленту
+- Проверка онбординга
 
 </br></br>
 :cherry_blossom: <a target="_blank" href="https://t.me/ElenaSeversk">t.me/ElenaSeversk</a>
