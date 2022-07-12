@@ -96,7 +96,6 @@ About me:
 - Проверка поля ввода Microsoft и проверка Description
 - Проверка экрана Настроить ленту
 - Проверка онбординга
-
 </br></br>
 :heavy_check_mark: <a target="_blank" href="https://t.me/KirKatkov">t.me/KirKatkov</a>
 
