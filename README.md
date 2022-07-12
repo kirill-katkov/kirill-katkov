@@ -58,7 +58,6 @@ About me:
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
 ## Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="https://github.com/kirill-katkov/Katkov_Astrio">astrio-tests</a></br></br>
-
 :heavy_check_mark: Проект по автоматизации тестирования сайта "Аstrio"
 
 :triangular_flag_on_post: Реализованные проверки:
