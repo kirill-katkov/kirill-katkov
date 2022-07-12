@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
 </div>
-
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-katkov&show_icons=true&theme=radical)](https://github.com/kirill-katkov/github-readme-stats)
 
