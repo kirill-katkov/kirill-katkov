@@ -16,25 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img title="Main Gage" src="images/main.png" style="width:370px;">
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-katkov&show_icons=true&theme=radical)](https://github.com/kirill-katkov/github-readme-stats)
 
+🌱 Прошел курс по автоматизированному тестированию в qa.guru
 ## Дипломный проект
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
 ## Тестирование UI
-:link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/rosatom-career-tests">rosatom-career-tests</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/kirill-katkov/Katkov_Astrio">astrio-tests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
-:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы Единого карьерного портала Госкорпорации "Росатом", а также поиск заданной вакансии.</br></br>
-:triangular_flag_on_post: Что особенного:
-
-- [x] Page Object
-- [x] Параметризованная сборка
-- [x] owner.config
-- [x] Интеграция с Jira
-- [x] Тестпланы авто- и ручного тестирования
-- [x] Задачи на дефекты
-
+:heavy_check_mark: Проект по автоматизации тестирования сайта "Аstrio";
 
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/open-library-api-tests">open-library-api-tests</a></br></br>
