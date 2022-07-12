@@ -66,5 +66,5 @@ Here are some ideas to get you started:
 - Проверка онбординга
 
 </br></br>
-:cherry_blossom: <a target="_blank" href="https://t.me/ElenaSeversk">t.me/ElenaSeversk</a>
+:heavy_check_mark: <a target="_blank" href="https://t.me/KirKatkov">t.me/KirKatkov</a>
 
