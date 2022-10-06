@@ -54,6 +54,9 @@ About me:
 
 
 🌱 Прошел курс по автоматизированному тестированию в qa.guru
+
+<img src="https://github.com/kirill-katkov/kirill-katkov/blob/main/images/cert-english.png" title="GuruQA" alt="GuruQA" width="70%" height="70%"/>&nbsp;
+
 ## Дипломный проект
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
 ## Тестирование UI
