@@ -50,9 +50,6 @@ About me:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-katkov&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/kirill-katkov/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirill-katkov)](https://github.com/kirill-katkov/github-readme-stats)
-
-
 🌱 Прошел курс по автоматизированному тестированию в qa.guru
 
 <img src="https://github.com/kirill-katkov/kirill-katkov/blob/main/images/cert-english.png" title="GuruQA" alt="GuruQA" width="70%" height="70%"/>&nbsp;
