@@ -20,7 +20,7 @@ About me:
 
 💼 I love coding = | 🌱 I love testing = | 📫 I love life
 
-### :hammer_and_wrench: Languages and Tools :
+<!-- ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" title="Intellij Idea" alt="Intellij Idea" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -46,12 +46,12 @@ About me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
 </div>
-<br>
+<br> -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-katkov&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/kirill-katkov/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-katkov&count_private=true&hide=contribs,prs,stars,issues&show_icons=true&include_all_commits=true&theme=monokai)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 
 🌱 Прошел курс по автоматизированному тестированию в qa.guru
 
