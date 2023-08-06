@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 About me:
 
-💼 I love coding = | 🌱 I love testing = | 📫 I love life
+💼 I love coding = | 🌱 I love testing = | 📫 I love life!!!
 
 <!-- ### :hammer_and_wrench: Languages and Tools :
 <div>
