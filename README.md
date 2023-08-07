@@ -48,10 +48,19 @@ About me:
 </div>
 <br> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-katkov&count_private=true&hide=contribs,prs,stars,issues&show_icons=true&include_all_commits=true&theme=monokai)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-katkov&include_all_commits=true&hide=stars,prs,issues,contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 🌱 Прошел курс по автоматизированному тестированию в qa.guru
 
