@@ -50,7 +50,7 @@ About me:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-katkov&count_private=true&hide=contribs,prs,stars,issues&show_icons=true&include_all_commits=true&theme=monokai)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-katkov&include_all_commits=true&&hide=&hide=contribs,prs,stars,issues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-katkov&include_all_commits=true&&hide=contribs,prs,stars,issues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 🌱 Прошел курс по автоматизированному тестированию в qa.guru
