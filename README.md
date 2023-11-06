@@ -33,7 +33,6 @@ Here are some ideas to get you started:
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirill-katkov&theme=buefy" alt="Most Commit Language">
 </p>
 
-
 🌱 Прошел курс по автоматизированному тестированию в qa.guru
 
 <img src="https://github.com/kirill-katkov/kirill-katkov/blob/main/images/cert-english.png" title="GuruQA" alt="GuruQA" width="70%" height="70%"/>&nbsp;
