@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Добро пожаловать и привет!
-### Меня зовут Кирилл. Я - инженер по автоматизированному тестированию мобильных приложений 👋
+### Меня зовут Кирилл. Я - инженер по автоматизации тестирования 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&background=FF441300&vCenter=true&multiline=true&random=true&width=435&lines=Test+Automation+Engineer)](https://git.io/typing-svg)
 <p>💼 I love coding = | 🌱 I love testing = | 📫 I love life!!!</p>
