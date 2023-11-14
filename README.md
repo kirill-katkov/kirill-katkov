@@ -81,4 +81,4 @@ Here are some ideas to get you started:
 - Проверка онбординга
 </br></br>
 :heavy_check_mark: <a target="_blank" href="https://t.me/KirKatkov">t.me/KirKatkov</a>
-
+!
