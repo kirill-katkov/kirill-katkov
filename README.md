@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 |[QA Guru Test Automation School](https://qa.guru/) | 2022 | [![QA Guru Test Automation School](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kirill-katkov&repo=AstrioTests&bg_color=DEG,FAD961,F76B1C)](https://github.com/kirill-katkov/AstrioTests) [![QA Guru Test Automation School](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kirill-katkov&repo=demoqa_api_tests&bg_color=DEG,00CED1,32CD32)](https://github.com/kirill-katkov/demoqa_api_tests)  [![QA Guru Test Automation School](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kirill-katkov&repo=wikipedia_mobile_tests&bg_color=DEG,FFA05F,FFCD5F)](https://github.com/kirill-katkov/wikipedia_mobile_tests) | [![Certificate](https://img.shields.io/badge/Certificate-View-purple)](https://drive.google.com/drive/folders/1ZdH0pDfc5YERwnw9KUcgE-et08vpdOwU) |
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
 ## Недавно я написал дипломный проект к курсу QA Guru Advanced. Rococo. 
-Проект в приватном репозитории но по запросу можно посмотреть. 
+Проект в  <a href=https://github.com/kirill-katkov/rococo>приватном репозитории</a> но по запросу можно посмотреть.
 Диплом стоит из микросервисов и полного покрытия тестов
-https://github.com/kirill-katkov/rococo
+
 <img width="1414" alt="Снимок экрана 2023-11-19 в 16 39 52" src="https://github.com/kirill-katkov/kirill-katkov/assets/95480051/c9c3188c-d513-4a8a-b48c-39204e8b2115">
 
 
