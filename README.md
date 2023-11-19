@@ -32,7 +32,11 @@ Here are some ideas to get you started:
 |----------------------------|--------------------------|------------------------------------------------|-------------|
 |[QA Guru Test Automation School](https://qa.guru/) | 2022 | [![QA Guru Test Automation School](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kirill-katkov&repo=AstrioTests&bg_color=DEG,FAD961,F76B1C)](https://github.com/kirill-katkov/AstrioTests) [![QA Guru Test Automation School](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kirill-katkov&repo=demoqa_api_tests&bg_color=DEG,00CED1,32CD32)](https://github.com/kirill-katkov/demoqa_api_tests)  [![QA Guru Test Automation School](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kirill-katkov&repo=wikipedia_mobile_tests&bg_color=DEG,FFA05F,FFCD5F)](https://github.com/kirill-katkov/wikipedia_mobile_tests) | [![Certificate](https://img.shields.io/badge/Certificate-View-purple)](https://drive.google.com/drive/folders/1ZdH0pDfc5YERwnw9KUcgE-et08vpdOwU) |
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-## 
+## Недавно я написал дипломный проект к курсу QA Guru Advanced. Rococo. 
+Проект в приватном репозитории но по запросу можно посмотреть. 
+Диплом стоит из микросервисов и полного покрытия тестов
+https://github.com/kirill-katkov/rococo
+<img width="1414" alt="Снимок экрана 2023-11-19 в 16 39 52" src="https://github.com/kirill-katkov/kirill-katkov/assets/95480051/c9c3188c-d513-4a8a-b48c-39204e8b2115">
 
 
 ## My Stats
@@ -42,52 +46,11 @@ Here are some ideas to get you started:
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirill-katkov&theme=buefy" alt="Most Commit Language">
 </p>
 
-🌱 Прошел курс по автоматизированному тестированию в qa.guru
 
-<img src="https://github.com/kirill-katkov/kirill-katkov/blob/main/images/cert-english.png" title="GuruQA" alt="GuruQA" width="70%" height="70%"/>&nbsp;
-
-## Дипломный проект
-Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
-## Тестирование UI
-:link: Тестовый проект: <a target="_blank" href="https://github.com/kirill-katkov/Katkov_Astrio">astrio-tests</a></br></br>
-:heavy_check_mark: Проект по автоматизации тестирования сайта "Аstrio"
-
-:triangular_flag_on_post: Реализованные проверки:
-
-- Проверка копирайта на главной странице
-- Проверка открытия страницы вакансий и меню
-- Проверка копирайта на странице вакансий
-- Проверка контента на странице "О нас"
-- Проверка контента на странице "Обучение и карьера"
-- Проверка контента на странице "Что мы делаем"
-- Проверка заполнения формы "для старта в IT"
-
-
-## Тестирование REST API
-:link: Тестовый проект: <a target="_blank" href="https://github.com/kirill-katkov/demoqa_api_katkov_tests">demoqa-api-tests</a></br></br>
-:heavy_check_mark: Проект по автоматизации тестирования API на сайте - demoqa.com.</br></br>
-:triangular_flag_on_post: Реализованные проверки:
-
-- Проверка списка книг
-- Авторизация с корректными данными
-- Авторизация с не существующим username
-- Авторизация с некорректным паролем
-- Проверка запроса с параметром и проверка Title
-- Проверка запроса с параметром и проверка всех параметром Book
-- Проверка существования пользователя
-- Проверка неавторизованного пользователя
-
-
-## Тестирование мобильного приложения
-:link: Тестовый проект: <a target="_blank" href="https://github.com/kirill-katkov/wikipedia_mobile_katkov_tests">wikipedia-mobile-tests</a></br></br>
-:heavy_check_mark: Проект по автоматизации тестирования мобильного приложения Wikipedia.</br></br>
-:triangular_flag_on_post: Реализованные проверки:
-
-- Проверка текста на стартовом экране
-- Проверка поля ввода BrowserStack
-- Проверка поля ввода Microsoft и проверка Description
-- Проверка экрана Настроить ленту
-- Проверка онбординга
-</br></br>
-:heavy_check_mark: <a target="_blank" href="https://t.me/KirKatkov">t.me/KirKatkov</a>
-!
+## Ways to reach me
+   <a href="mailto:godinew9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://t.me/alin_laegnor">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
